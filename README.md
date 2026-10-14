@@ -16,6 +16,7 @@ using the same 81 input features and eligible records.
 
 Download the original dataset:
 [training_data.parquet](https://ccao-data-public-us-east-1.s3.amazonaws.com/models/inputs/res/2026/run_id=2026-07-30-ecstatic-carly/training_data.parquet)
+[data_source](https://github.com/ccao-data/model-res-avm#getting-data)
 
 Save it as `data/training_data.parquet`.
 
