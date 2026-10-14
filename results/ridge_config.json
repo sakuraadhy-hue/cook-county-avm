@@ -1,0 +1,12 @@
+{
+  "alpha": 0.001,
+  "solver": "lsqr",
+  "selection_metric": "validation RMSE",
+  "training_period": "2017\u20132023",
+  "validation_period": "2024",
+  "test_period": "2025",
+  "input_features": 81,
+  "encoded_features": 1163,
+  "target_transformation": "none",
+  "prediction_clipping": false
+}
