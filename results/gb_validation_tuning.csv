@@ -1,0 +1,4 @@
+learning_rate,max_iter,max_depth
+0.05,200,8
+0.1,250,10
+0.08,300,12
