@@ -1,0 +1,16 @@
+{
+  "n_estimators": 150,
+  "max_depth": 25,
+  "max_features": 1.0,
+  "min_samples_leaf": 1,
+  "bootstrap": true,
+  "random_state": 42,
+  "selection_metric": "validation RMSE",
+  "training_period": "2017\u20132023",
+  "validation_period": "2024",
+  "test_period": "2025",
+  "input_features": 81,
+  "encoder": "make_tree_encoder (ordinal categories, unscaled numerics)",
+  "target_transformation": "none",
+  "prediction_clipping": false
+}

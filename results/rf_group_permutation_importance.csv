@@ -1,0 +1,4 @@
+feature group,features,RMSE increase when shuffled ($)
+Property characteristics (char_*),25,198772.33230909554
+"Location & context (loc_*, prox_*, shp_*)",56,212572.52962564398
+"Coordinates only (latitude, longitude)",2,103701.41100474894
